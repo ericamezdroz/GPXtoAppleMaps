@@ -4,7 +4,7 @@ This project provides a simple web-based tool to convert GPX (GPS Exchange Forma
 
 **Note:** The `<trkpt>` element must be present in the GPX file for the script to function correctly. The script uses the `<trkpt>` elements to extract the recorded track points and generate the Apple Maps link.
 
-try it yourself at [GPXtoAppleMaps](https://amezdroz.ch/gpxtoapplemaps)
+try it yourself at [amezdroz.ch/gpxtoapplemaps](https://amezdroz.ch/gpxtoapplemaps)
 
 Here's an example of how the .gpx file created on Kurviger.de would be look in Apple Maps:
 
